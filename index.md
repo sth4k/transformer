@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+This page will show my personal understanding about Google's Nerual Machine Translation model "Transformer"
+
+[ref] (https://arxiv.org/abs/1706.03762) 
+
 
 You can use the [editor on GitHub](https://github.com/sth4k/transformer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
